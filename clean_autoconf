@@ -1,0 +1,15 @@
+#!/bin/bash
+
+rm config.status
+rm config.log
+
+rm aclocal.m4
+rm -r autom4te.cache
+
+rm depcomp
+rm install-sh
+rm missing
+
+rm configure
+rm Makefile.in
+rm Makefile
