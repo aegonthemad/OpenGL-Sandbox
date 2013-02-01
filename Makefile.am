@@ -2,10 +2,10 @@
 # Compiler Flags
 AM_CFLAGS=-O2 -g
 
-bin_PROGRAMS=firehydrantd
+bin_PROGRAMS=openglsanbox
 
 BUILT_SOURCES=
 
-firehydrantd_SOURCES=firehydrantd.c
+openglsanbox_SOURCES=openglsanbox.c
 
 
